@@ -1,0 +1,11 @@
+# ninja log v6
+5	299	7544504782742844	build.ninja	e1bd9b54a73dffdb
+5	209	7544493166336666	CMakeFiles/exercises3.dir/two.cpp.obj.ddi	2e5dc2facb0eba7f
+217	255	7544493168453472	C:/Users/Pablo/CLionProjects/exercises3/cmake-build-debug/CMakeFiles/exercises3.dir/CXXModules.json	b24614e16e9c4049
+217	255	7544493168453472	CMakeFiles/exercises3.dir/CXX.dd	b24614e16e9c4049
+217	255	7544493168453472	CMakeFiles/exercises3.dir/two.cpp.obj.modmap	b24614e16e9c4049
+9	217	7544493166376859	CMakeFiles/exercises3.dir/three.cpp.obj.ddi	930e4e302e3c9879
+262	1155	7544493168899955	CMakeFiles/exercises3.dir/two.cpp.obj	bcff5232cada036d
+1229	1368	7544486900527506	exercises3.exe	71f2f81c28122777
+217	255	7544493168453472	CMakeFiles/exercises3.dir/three.cpp.obj.modmap	b24614e16e9c4049
+266	1457	7544493168945286	CMakeFiles/exercises3.dir/three.cpp.obj	258777938caf482f
